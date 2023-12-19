@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-west-2"  # Ví dụ, bạn có thể thay đổi theo region của bạn
+  region = "us-west-2"
 }
 
 resource "aws_cloudfront_distribution" "eks_distribution" {
