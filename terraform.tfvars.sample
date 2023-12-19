@@ -1,0 +1,14 @@
+eks_clusters = {
+  "cluster1" = {
+    domain_name = "staging-1.domain.com"
+    locations   = ["US", "CA"]
+  },
+  "cluster2" = {
+    domain_name = "staging-2.domain.com"
+    locations   = ["EU"]
+  },
+  "cluster3" = {
+    domain_name = "staging-3.domain.com"
+    locations   = ["AP"]
+  }
+}
