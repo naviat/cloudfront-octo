@@ -1,4 +1,3 @@
-# Explain
 This Terraform configuration defines an AWS CloudFront distribution for multiple EKS clusters specified in a variable called var.eks_clusters. Here's what each part of the code does:
 
 ## 1. Provider Configuration:
